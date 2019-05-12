@@ -1,3 +1,6 @@
+//Linked List with a Custom Class
+//Custom Class can have any number of data and can be of any type.
+
 #include <iostream>
 #include<string>
 
